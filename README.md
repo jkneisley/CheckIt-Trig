@@ -19,7 +19,6 @@ Finished configuring codespace.
 ## Previewing bank
 
 Quick instructions:
-
 ```
 sage --python -m checkit generate  # add -ri to get images (slow)
 sage --python -m checkit viewer

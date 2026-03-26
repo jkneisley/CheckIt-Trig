@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+  <intro>
+    <p>
+      For each statement, determine whether the trig function is positive or negative
+      and whether it is increasing or decreasing on that quadrant.
+    </p>
+  </intro>
+
+  <knowl>
+    <content>
+      <p>1. In Quadrant {{tasks.0.quadrant}}, <m>{{tasks.0.fname}}</m> is (positive/negative) and (increasing/decreasing).</p>
+    </content>
+    <outtro>
+      <p>Answer: <m>{{tasks.0.fname}}</m> is <m>{{tasks.0.sign}}</m> and <m>{{tasks.0.mono}}</m> in Quadrant {{tasks.0.quadrant}}.</p>
+    </outtro>
+  </knowl>
+
+  <knowl>
+    <content>
+      <p>2. In Quadrant {{tasks.1.quadrant}}, <m>{{tasks.1.fname}}</m> is (positive/negative) and (increasing/decreasing).</p>
+    </content>
+    <outtro>
+      <p>Answer: <m>{{tasks.1.fname}}</m> is <m>{{tasks.1.sign}}</m> and <m>{{tasks.1.mono}}</m> in Quadrant {{tasks.1.quadrant}}.</p>
+    </outtro>
+  </knowl>
+
+  <knowl>
+    <content>
+      <p>3. In Quadrant {{tasks.2.quadrant}}, <m>{{tasks.2.fname}}</m> is (positive/negative) and (increasing/decreasing).</p>
+    </content>
+    <outtro>
+      <p>Answer: <m>{{tasks.2.fname}}</m> is <m>{{tasks.2.sign}}</m> and <m>{{tasks.2.mono}}</m> in Quadrant {{tasks.2.quadrant}}.</p>
+    </outtro>
+  </knowl>
+
+  <knowl>
+    <content>
+      <p>4. In Quadrant {{tasks.3.quadrant}}, <m>{{tasks.3.fname}}</m> is (positive/negative) and (increasing/decreasing).</p>
+    </content>
+    <outtro>
+      <p>Answer: <m>{{tasks.3.fname}}</m> is <m>{{tasks.3.sign}}</m> and <m>{{tasks.3.mono}}</m> in Quadrant {{tasks.3.quadrant}}.</p>
+    </outtro>
+  </knowl>
+
+</knowl>

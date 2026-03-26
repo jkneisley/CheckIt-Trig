@@ -1,24 +1,37 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<bank xmlns="https://checkit.clontz.org" version="0.2">
-    <title>New CheckIt Bank</title>
-    <slug>new-checkit-bank</slug>
-    <url>https://checkit.clontz.org</url>
-    <outcomes>
-        <outcome>
-            <title>Sample Outcome</title>
-            <slug>EX1</slug>
-            <path>outcomes/EX1</path>
-            <description>
-Simplify the sum of two monomials.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Sample Image Outcome</title>
-            <slug>IMG1</slug>
-            <path>outcomes/IMG1</path>
-            <description>
-Example of generating graphics.
-            </description>
-        </outcome>
-    </outcomes>
+<?xml version='1.0' encoding='utf-8'?>
+<bank version="0.2" xmlns="https://checkit.clontz.org">
+  <title>Trigonometry: Unit Circle Values</title>
+  <slug>TrigUnitCircle</slug>
+  <url>https://github.com/YOUR_USERNAME/checkit-trig-unit-circle</url>
+  <outcomes>
+    <outcome>
+      <title>Fundamentals #1</title>
+      <slug>TrigUnitCircle</slug>
+      <path>outcomes/TrigUnitCircle</path>
+      <description>
+        Evaluate sine, cosine, tangent, cotangent, secant, or cosecant
+        of angles on the unit circle in both degrees [0°, 360°) and
+        radians [0, 2π), giving exact simplified answers.
+      </description>
+    </outcome>
+  
+    <outcome>
+      <title>Fundamentals #2</title>
+      <slug>Signs_Changes</slug>
+      <path>outcomes/Signs_Changes</path>
+      <description>
+        Determine whether the value of a trig function is positive or negative in each quadrant, and whether the function is increasing or decreasing in each quadrant. .
+      </description>
+    </outcome>
+  
+    <outcome>
+      <title>Fundamentals #3</title>
+      <slug>RightTriangle_TwoGivens</slug>
+      <path>outcomes/RightTriangle_TwoGivens</path>
+      <description>
+        Label a right triangle with standard labeling and and the provided side lengths, then find the requested values.
+      </description>
+    </outcome>
+
+  </outcomes>
 </bank>

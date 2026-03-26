@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+  <intro>
+    <p>Evaluate each trigonometric expression. Give exact answers using
+    whole numbers or simplified fractions with rationalized denominators.</p>
+  </intro>
+    <knowl>
+      <content>
+        <p>Evaluate <m>{{tasks.0.fname}}\!\left({{tasks.0.angle}}\right)</m>.</p>
+      </content>
+      <outtro>
+        <p><m>{{tasks.0.fname}}\!\left({{tasks.0.angle}}\right) = {{tasks.0.answer}}</m></p>
+      </outtro>
+    </knowl>
+
+    <knowl>
+      <content>
+        <p>Evaluate <m>{{tasks.1.fname}}\!\left({{tasks.1.angle}}\right)</m>.</p>
+      </content>
+      <outtro>
+        <p><m>{{tasks.1.fname}}\!\left({{tasks.1.angle}}\right) = {{tasks.1.answer}}</m></p>
+      </outtro>
+    </knowl>
+
+    <knowl>
+      <content>
+        <p>Evaluate <m>{{tasks.2.fname}}\!\left({{tasks.2.angle}}\right)</m>.</p>
+      </content>
+      <outtro>
+        <p><m>{{tasks.2.fname}}\!\left({{tasks.2.angle}}\right) = {{tasks.2.answer}}</m></p>
+      </outtro>
+    </knowl>
+
+    <knowl>
+      <content>
+        <p>Evaluate <m>{{tasks.3.fname}}\!\left({{tasks.3.angle}}\right)</m>.</p>
+      </content>
+      <outtro>
+        <p><m>{{tasks.3.fname}}\!\left({{tasks.3.angle}}\right) = {{tasks.3.answer}}</m></p>
+      </outtro>
+    </knowl>
+
+    <knowl>
+      <content>
+        <p>Evaluate <m>{{tasks.4.fname}}\!\left({{tasks.4.angle}}\right)</m>.</p>
+      </content>
+      <outtro>
+        <p><m>{{tasks.4.fname}}\!\left({{tasks.4.angle}}\right) = {{tasks.4.answer}}</m></p>
+      </outtro>
+    </knowl>
+
+    <knowl>
+      <content>
+        <p>Evaluate <m>{{tasks.5.fname}}\!\left({{tasks.5.angle}}\right)</m>.</p>
+      </content>
+      <outtro>
+        <p><m>{{tasks.5.fname}}\!\left({{tasks.5.angle}}\right) = {{tasks.5.answer}}</m></p>
+      </outtro>
+    </knowl>
+</knowl>
